@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",BRTV北京卫视[高清]
 http://192.168.2.1:23234/rtp/239.3.1.241:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV新闻[高清]
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="未分类",BTV新闻[高清]
 http://192.168.2.1:23234/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV影视[高清]
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="未分类",BTV影视[高清]
 http://192.168.2.1:23234/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV文艺[高清]
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="未分类",BTV文艺[高清]
 http://192.168.2.1:23234/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV财经[高清]
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="未分类",BTV财经[高清]
 http://192.168.2.1:23234/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV生活[高清]
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="未分类",BTV生活[高清]
 http://192.168.2.1:23234/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV纪实科教[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BTV纪实科教[高清]
 http://192.168.2.1:23234/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",BRTV卡酷少儿[高清]
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",BTV卡酷少儿[高清]
 http://192.168.2.1:23234/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV体育休闲[超清]
+#EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="未分类",BTV体育休闲[超清]
 http://192.168.2.1:23234/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRTV国际频道[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BTV国际频道[高清]
 http://192.168.2.1:23234/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合[高清]
 http://192.168.2.1:23234/rtp/239.3.1.129:8008
@@ -31,7 +31,7 @@ http://192.168.2.1:23234/rtp/239.3.1.105:8092
 http://192.168.2.1:23234/rtp/239.3.1.213:4220
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 中文国际 美洲[高清]
 http://192.168.2.1:23234/rtp/239.3.1.214:4220
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-5 体育[高清]
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育[高清]
 http://192.168.2.1:23234/rtp/239.3.1.173:8001
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事[高清]
 http://192.168.2.1:23234/rtp/239.3.1.130:8004
